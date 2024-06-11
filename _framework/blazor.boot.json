@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "WebsiteWillem",
   "resources": {
-    "hash": "sha256-IGCHVr4TtEELRgRZoDEM00blVWNDe0K4b6APkXtMcpE=",
+    "hash": "sha256-tTBw5ESFBGYgBQlnvqL2/rYtqcC/Ul/aLi8+WuBAZ94=",
     "jsModuleNative": {
       "dotnet.native.8.0.5.9t2dpifbfl.js": "sha256-Gq/YqqvNIKGS+Awu1ozolYJd8VGcjbgMH4sU5hvZvTs="
     },
@@ -46,7 +46,7 @@
       "System.Text.Encodings.Web.wasm": "sha256-V69v6JYAgTsrgM4epAyn/+1+KjM60Hxzokb2hKtbPt0=",
       "System.Text.Json.wasm": "sha256-n42G6dtH8ZLNiGlM75idHL7Ltdau1YP1Bmhkkx3WSPc=",
       "System.Text.RegularExpressions.wasm": "sha256-o6Ef/uOI9sFxJXKnXQbJnRMbcIIJ/ZFdc4fFqA9wu7Y=",
-      "WebsiteWillem.wasm": "sha256-0okZ3qzZx2yQIClOtzfzRNADVt84PbmQpcOcD5y4l3Y="
+      "WebsiteWillem.wasm": "sha256-81QSbI5ISi0ASsdG+o72UYkIMGmnkPNdadlAvFhyzaY="
     }
   },
   "cacheBootResources": true,
