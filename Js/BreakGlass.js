@@ -3,7 +3,7 @@
     const context = canvas.getContext("2d");
     
     const glass = document.createElement("img");
-    glass.src = "/Images/GlassBroken.png";
+    glass.src = "/WWC/Images/GlassBroken.png";
 
     const rect = canvas.getBoundingClientRect();
 
@@ -18,7 +18,7 @@ function prepareCanvas(ID) {
     const context = canvas.getContext("2d");
 
     const willem = document.createElement("img");
-    willem.src = "/Images/Willem.jpg";
+    willem.src = "/WWC/Images/Willem.jpg";
 
     willem.onload = function () {
         canvas.width = willem.width;
