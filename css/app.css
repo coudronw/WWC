@@ -126,6 +126,10 @@ h1 {
     padding-bottom: 33vh;
 }
 
+    h1:focus {
+        outline: none;
+    }
+
 .backgroundImg {
     background-image: url(/WWC/Images/Main.png);
     background-repeat: no-repeat;
@@ -158,10 +162,6 @@ h1 {
 
 h1 {
     text-align: center;
-}
-
-h1:focus {
-    outline: none;
 }
 
 
