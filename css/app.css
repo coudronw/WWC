@@ -269,7 +269,7 @@ h1 {
 
 /*ContactPage*/
 .ContactIc {
-    width: 6em;
+    width: 5em;
     cursor: pointer;
 }
 
@@ -307,7 +307,7 @@ h1 {
     transform: rotate(135deg);
 }
 .contactText {
-    font-size: 1.5em;
+    font-size: 1.2em;
     width: 12%;
 }
 
