@@ -129,7 +129,7 @@ h1 {
     padding-top: 80px;
     font-size: 4em;
     color: white;
-    padding-bottom: 33vh;
+    padding-bottom: 27vh;
 }
 
     h1:focus {
@@ -275,7 +275,7 @@ h1 {
 
 /*ContactPage*/
 .ContactIc {
-    width: 6em;
+    width: 5em;
     cursor: pointer;
 }
 
@@ -313,7 +313,7 @@ h1 {
     transform: rotate(135deg);
 }
 .contactText {
-    font-size: 1.5em;
+    font-size: 1.2em;
     width: 12%;
 }
 
