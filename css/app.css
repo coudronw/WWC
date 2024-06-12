@@ -160,6 +160,10 @@ h1 {
     text-align: center;
 }
 
+h1:focus {
+    outline: none;
+}
+
 
 /*CV*/
 /*studiesErvaringen*/
